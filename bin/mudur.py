@@ -570,7 +570,7 @@ LANGUAGES = {
     "id"    : Language("id",         "",           "8859-1",  "id_ID.utf8"),
     "is"    : Language("is",         "",           "8859-1",  "is_IS.utf8"),   
     "ja"    : Language("jp",         "",           "",        "ja_JP.utf8"),
-    "ltT"    : Language("lt",         "",           "8859-13", "lt_LT.utf8"),
+    "lt"    : Language("lt",         "",           "8859-13", "lt_LT.utf8"),
     "mr"    : Language("in",         "",           "",        "mr_IN.utf8"),
     "pt_PT"    : Language("pt",         "",           "8859-1",  "pt_PT.utf8"),
     "ro"    : Language("ro",         "",           "8859-2",  "ro_RO.utf8"),
